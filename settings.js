@@ -33,7 +33,7 @@ global.language = english //change indonesia to english if you don't understand 
 // Other
 global.botname = "Kitty Girl" //namabot kalian
 global.ownername = "Kitty Girl" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
+global.myweb = "http://dinuwa-lk.github.io" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@dinuwa_lk" //bebas asal jan hapus
 global.myweb2 = "http://dinuwa-lk.github.io" //bebas
 global.email = "d.niwanariyawaansha@gmail.com" //bebas
